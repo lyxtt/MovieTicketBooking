@@ -16,8 +16,3 @@ A Movie Ticket Booking built with Flutter
 ## Admin
 ### Manage information
 - Add, update, or remove movie details.
-# The Screenshots of some of this project are here:
-<img src="https://raw.githubusercontent.com/lyxtt/MovieTicketBooking/refs/heads/main/images/Home.png" width="300">
-<img src="https://raw.githubusercontent.com/lyxtt/MovieTicketBooking/refs/heads/main/images/detail.png" width="300">
-<img src="https://raw.githubusercontent.com/lyxtt/MovieTicketBooking/refs/heads/main/images/seat.png" width="300">
-<img src="https://raw.githubusercontent.com/lyxtt/MovieTicketBooking/refs/heads/main/images/booking.png" width="300">
