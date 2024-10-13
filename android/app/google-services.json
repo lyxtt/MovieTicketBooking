@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7014404210",
+    "project_id": "movie-booking-ticket-9a666",
+    "storage_bucket": "movie-booking-ticket-9a666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7014404210:android:a86b63110abac1f88b32eb",
+        "android_client_info": {
+          "package_name": "ly.ntu.edu.vn.movie_booking_ticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAg8Ut1kKwxP1Q2Ygwuyg_42Yo7AItTG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
